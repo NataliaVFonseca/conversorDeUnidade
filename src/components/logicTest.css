@@ -1,0 +1,28 @@
+
+.box-logic .forms .caixa{
+  
+    border-radius: 10px;
+    background-color: rgb(168, 236, 168);
+    width: 505px;
+    height: 50px;
+    font-size: 30px;
+    font-family: 'Lucida Sans';
+    text-align: center;
+    
+    
+} 
+
+.box-logic .resultado{
+  
+    border-radius: 10px;
+    background-color: rgb(168, 236, 168);
+    width: 505px;
+    height: 50px;
+    font-size: 30px;
+    font-family: 'Lucida Sans';
+    color: black;
+    border-color: azure;
+    text-align: center;
+    
+} 
+

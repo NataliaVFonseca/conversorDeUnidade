@@ -1,0 +1,12 @@
+.lista{
+  
+    border-radius: 10px;
+    background-color: rgb(168, 236, 168);
+    width: 505px;
+    height: 50px;
+    font-size: 18px;
+    font-family: 'Lucida Sans';
+    color: black;
+    border-color: azure;
+    
+} 
